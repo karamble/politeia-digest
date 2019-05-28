@@ -67,5 +67,5 @@ Also available on [medium]({}}).
 
 Proposals which have been active since the last issue of Politeia Digest was released.
 
-![Snapshot taken 00:35 UTC May 12 2019](img/issue015/015-snapshot.png"Snapshot taken 00:35 UTC May 12 2019")
+![Snapshot taken 00:35 UTC May 12 2019](img/issue015/015-snapshot.png "Snapshot taken 00:35 UTC May 12 2019")
 
